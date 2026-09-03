@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Nathael
+# ¡Hola! Soy Nathael
 
 Estudiante de ingeniería en sistemas computacionales  
 Me gusta desarrollar proyectos y aprender nuevas tecnologías.
